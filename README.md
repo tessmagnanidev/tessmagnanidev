@@ -17,11 +17,24 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Projetos em destaque
+
+- 🎮 [AluGames](https://github.com/tessmagnanidev/alugames) — sistema de aluguel de jogos com JS básico
+- 🎁 [Amigo Secreto](https://github.com/tessmagnanidev/amigo-secreto) — sorteador aleatório de participantes
+- 🛒 [Carrinho de Compras](https://github.com/tessmagnanidev/carrinho-compras) — adição e remoção dinâmica de produtos
+- 🎟️ [Ingressos Online](https://github.com/tessmagnanidev/ingressos-online) — simulação de venda de ingressos
+- 🎲 [Sorteador de Números](https://github.com/tessmagnanidev/sorteador-numeros) — sorteio aleatório de números
+
+---
+
+### 🧰 Tecnologias e Ferramentas que estou explorando
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
 
